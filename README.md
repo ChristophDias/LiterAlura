@@ -1,10 +1,10 @@
-##LiterAlura
+# LiterAlura
 
 Este repositorio tem o propósito de aplicar os conhecimentos do adquiridos durante o curso Java e Spring Framework T6 - ONE.
 
 Com a resolução do desafio LiterAlura, experimentei diretamente o papel de um desenvolvedor back-end no cotidiano criando uma aplicação com conexão a um banco de dados relacional.
 
-#Conceitos
+## Conceitos
 
 Conceitos avançados de Java e Spring, como consumo de APIs externas, persistência de dados, recuperar dados do banco, trabalhar com os dados do banco.
 
