@@ -1,6 +1,6 @@
 # LiterAlura
 
-Este repositorio tem o propósito de aplicar os conhecimentos do adquiridos durante o curso Java e Spring Framework T6 - ONE.
+Este repositorio tem o propósito de aplicar os conhecimentos adquiridos durante o curso Java e Spring Framework T6 - ONE.
 
 Com a resolução do desafio LiterAlura, experimentei diretamente o papel de um desenvolvedor back-end no cotidiano criando uma aplicação com conexão a um banco de dados relacional.
 
